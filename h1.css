@@ -1,0 +1,61 @@
+
+#title{
+    background-image: url("1060795.png");
+    background-position: center;
+    background-size: 1600px ;
+    
+}
+ h1{
+    color: white;
+    line-height: 60px;
+    border:white;
+    background:transparent;
+}
+#a{
+    color: bisque;
+}
+#socialmedia_1{
+    position: absolute;
+    transition: 0.3s;
+    height: max-content;
+    left: -350px;
+    nav-left: auto;
+    font-size: 20px;
+    color:white;
+
+}
+#socialmedia_1:hover{
+    left: 0;
+}
+#Facebook{
+
+    background-color: darkblue;
+    color:white;
+    padding: 15px;
+    border-radius: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+#Instagram{
+
+    background-image: url("images.jpg");
+    background-position: left;
+    padding: 15px;
+    text-align: center;
+    color:white;
+    border-radius: 10px 10px 10px 10px;
+    text-decoration: none;
+
+}
+#Discord{
+
+    background-color: #738ADB;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 10px 10px 10px 10px;
+    margin-right: 2px;
+}
+#nav1{
+    color:white;
+    text-align-last: right;
+}
